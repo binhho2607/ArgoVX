@@ -7,6 +7,6 @@ ArgoVX is a software that allows users to visualize the movement of trade routes
 Simply download the files or make a pull request, then run the file main.py
 
 ## Reminders
--Make sure that appropriate administative settings is given so that the program can access the desired .csv file.
--Update to the latest version of Python to ensure that the program runs smoothly
+-Make sure that appropriate administative settings is given so that the program can access the desired .csv file. <br />
+-Update to the latest version of Python to ensure that the program runs smoothly <br />
 -ArgoVX requires Internet connection to work properly 
